@@ -96,11 +96,4 @@ Specify the project license here (e.g., MIT).
 
 masy43 — https://github.com/masy43
 
----
 
-If you'd like, I can also:
-
-- Initialize a local git repository and commit these changes
-- Add the remote `https://github.com/masy43/SmartHome-Backend-nestjs.git` and attempt to push
-
-Tell me if you want me to proceed with those steps now.
