@@ -51,11 +51,11 @@ The app will run on http://localhost:3000 by default (unless configured otherwis
 
 ## Scripts
 
-- npm run start         # Start production server
-- npm run start:dev     # Start dev server with Hot Reload
-- npm run build         # Build app
-- npm run lint          # Run linter (if configured)
-- npm run test          # Run tests (if configured)
+- npm run start # Start production server
+- npm run start:dev # Start dev server with Hot Reload
+- npm run build # Build app
+- npm run lint # Run linter (if configured)
+- npm run test # Run tests (if configured)
 
 ## Project layout
 
