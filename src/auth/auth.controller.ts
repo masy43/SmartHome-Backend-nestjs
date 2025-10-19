@@ -28,12 +28,6 @@ export class AuthController {
   }
 
   @UseGuards(JwtGuard)
-  @Get("me")
-  async me(@Req() req: any) {
-    return req.user;
-  }
-
-  @UseGuards(JwtGuard)
   @Get("users")
   async getAllUsers() {
     return this.authService.getAllUsers();
